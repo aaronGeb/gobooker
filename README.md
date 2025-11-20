@@ -1,4 +1,4 @@
-# Concurrency Documentation — Concurrent Book Reservation System
+# Concurrent Book Reservation System
 
 ## Overview
 This service demonstrates safe concurrent reservations of books using:
